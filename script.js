@@ -34,7 +34,7 @@ let All_song = [
    },  
    {
      name: "Avem",
-     path: "Music/1.mp3",
+     path: "music/1.mp3",
      img: "img/avem.jpg",
      singer: "Artist : Alan Walker"
    },
