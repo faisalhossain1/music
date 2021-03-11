@@ -27,15 +27,15 @@ let track = document.createElement('audio');
 //All songs list
 let All_song = [
    {
-     name: "Avem",
-     path: "Music/1.mp3",
-     img: "img/avem.jpg",
-     singer: "Artist : Alan Walker"
-   },
-   {
      name: "Sorry",
      path: "music/2.mp3",
      img: "img/sorry.jpg",
+     singer: "Artist : Alan Walker"
+   },  
+   {
+     name: "Avem",
+     path: "Music/1.mp3",
+     img: "img/avem.jpg",
      singer: "Artist : Alan Walker"
    },
    {
