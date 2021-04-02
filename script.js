@@ -32,6 +32,18 @@ let All_song = [
      img: "img/avem.jpg",
      singer: "Artist : Alan Walker"
    },
+  {
+     name: "Fire",
+     path: "ZerøCode - Fire (Inspired By Alan Walker) _NCN Release_.mp3",
+     img: "img/live me.jpg",
+     singer: "Artist : ZerøCode"
+   },
+    {
+     name: "AWS-New Start",
+     path: "AWS -New Start (Inspired By Alan Walker) _NCN Release_.mp3",
+     img: "15.jpg",
+     singer: "Artist : Alan Walker"
+   },
    {
      name: "Sorry",
      path: "music/2.mp3",
