@@ -45,16 +45,16 @@ let All_song = [
      singer: "Artist : G-Eazy & Kehlani"
    },
    {
-     name: "Sorry",
-     path: "music/2.mp3",
-     img: "img/sorry.jpg",
+     name: "Paradise",
+     path: "http://cdn.beatzjam.com/wp-content/uploads/2021/Alan-Walker-K-391-Boy-In-Space-Paradise-(BeatzJam.com).mp3?_=2",
+     img: "https://wowplus.net/wp-content/uploads/2021/10/e34a26a779087e3ded8a034c4e78050928f00707-741x486.jpg",
      singer: "Artist : Alan Walker"
    },
    {
-     name: "Love me like you do",
-     path: "music/love_me_like_you_do.mp3",
-     img: "img/live me.jpg",
-     singer: "Artist : Unknown"
+     name: "See You Again",
+     path: "https://cdn.beatzjam.com/wp-content/uploads/2021/Wiz-Khalifa-ft-Charlie-Puth-See-You-Again-(BeatzJam.com).mp3?_=2",
+     img: "https://edmboost.org/wp-content/uploads/2020/01/1-440-716x708.jpg",
+     singer: "Artist : Wiz Khalifa"
    },
    {
      name: "Why Do I",
