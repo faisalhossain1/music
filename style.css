@@ -150,8 +150,6 @@ input[type="range"]::-webkit-slider-thumb{
 .right #artist{
 	position: absolute;
 	top: 8.052708638360176vw;
-	left: 50%;
-	transform: translateX(-50%);
 	text-transform: capitalize;
 	color: #fff;
 	font-size: 1.3177159590043923vw;
