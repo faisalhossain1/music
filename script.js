@@ -27,10 +27,10 @@ let track = document.createElement('audio');
 //All songs list
 let All_song = [
    {
-     name: "Avem",
-     path: "music/1.mp3",
-     img: "img/avem.jpg",
-     singer: "Artist : Alan Walker"
+     name: "World We Used To Know",
+     path: "http://cdn.beatzjam.com/wp-content/uploads/2021/Alan-Walker-Winona-Oak-World-We-Used-to-Know-(BeatzJam.com).mp3?_=2",
+     img: "https://i.ytimg.com/vi/4SYOIqyhA8I/maxresdefault.jpg",
+     singer: "Artist : Alan Walker x Winona Oak"
    },
   {
      name: "Let Me Down Slowly",
