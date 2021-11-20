@@ -39,10 +39,10 @@ let All_song = [
      singer: "Artist : Alec Benjamin"
    },
     {
-     name: "AWS-New Start",
-     path: "music/AWS -New Start (Inspired By Alan Walker) _NCN Release_.mp3",
-     img: "img/aws.png",
-     singer: "Artist : Alan Walker"
+     name: "Good Life",
+     path: "https://cdn.beatzjam.com/wp-content/uploads/2021/G-Eazy-Kehlani-Good-Life-(BeatzJam.com).mp3?_=2",
+     img: "https://i.ytimg.com/vi/USP42EeDu7w/maxresdefault.jpg",
+     singer: "Artist : G-Eazy & Kehlani"
    },
    {
      name: "Sorry",
