@@ -57,16 +57,16 @@ let All_song = [
      singer: "Artist : Wiz Khalifa"
    },
    {
-     name: "Why Do I",
-     path: "music/Unknown Brain - Why Do I_ (feat. Bri Tolani) _NCS Release_.mp3",
-     img: "img/brain.jpg",
-     singer: "Artist : Unknown Brain"
+     name: "Let Me Love You",
+     path: "http://cdn.beatzjam.com/wp-content/uploads/2021/DJ-Snake-ft-Justin-Bieber-Let-Me-Love-You-(BeatzJam.com).mp3?_=2",
+     img: "https://upload.wikimedia.org/wikipedia/en/thumb/a/a5/DJSnakeLetMeLoveYou.jpg/220px-DJSnakeLetMeLoveYou.jpg",
+     singer: "Artist : DJ Snake x Justin Bieber"
    },
    {
-     name: "Crazy",
-     path: "music/BEAUZ _ JVNA - Crazy _NCS Release_.mp3",
-     img: "img/crazy.jpg",
-     singer: "Artist : Beauz & Jvna"
+     name: "Shape of You",
+     path: "http://cdn.beatzjam.com/wp-content/uploads/2021/Ed-Sheeran-Shape-Of-You-(BeatzJam.com).mp3?_=2",
+     img: "https://s3.amazonaws.com/secretsaucefiles/photos/images/000/120/955/large/Screen_Shot_2017-01-30_at_7.36.54_PM.png?1485823203",
+     singer: "Artist : Ed Sheeran"
    },
    {
 	name: "Earth",
