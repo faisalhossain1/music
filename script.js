@@ -33,10 +33,10 @@ let All_song = [
      singer: "Artist : Alan Walker"
    },
   {
-     name: "Fire",
-     path: "music/ZerøCode - Fire (Inspired By Alan Walker) _NCN Release_.mp3",
-     img: "img/zero.png",
-     singer: "Artist : ZerøCode"
+     name: "Let Me Down Slowly",
+     path: "https://gospelful.com/wp-content/uploads/2021/07/Alec-Benjamin-Let-Me-Down-Slowly-gospelfulcom.mp3",
+     img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbFIxfnrfKtzBiqjt6RhFXdI1gTVXzAR0QRQ&usqp=CAU",
+     singer: "Artist : Alec Benjamin"
    },
     {
      name: "AWS-New Start",
