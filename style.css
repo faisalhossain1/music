@@ -140,14 +140,16 @@ input[type="range"]::-webkit-slider-thumb{
 }
 .right #title{
 	position: absolute;
-	top:  4.392386530014641vw;
-	text-transform: capitalize;
-	color: #fff;
-	font-size: 2.5vw;
+    top: 4.392386530014641vw;
+    text-transform: capitalize;
+    color: #fff;
+    font-size: 2.5vw;
 }
 .right #artist{
 	position: absolute;
 	top: 8.052708638360176vw;
+	left: 50%;
+	transform: translateX(-50%);
 	text-transform: capitalize;
 	color: #fff;
 	font-size: 1.3177159590043923vw;
@@ -203,7 +205,7 @@ input[type="range"]::-webkit-slider-thumb{
   display: flex;
   align-items: center;
   justify-content: center;
-  padding: 0.5856515373352855vw 25px;
+  padding: 0.5856515373352855vw 12px;
   color: #fff;
   border-radius: 0.36603221083455345vw;
   background: rgba(255,255,255,0.2);
@@ -264,6 +266,10 @@ input[type="range"]::-webkit-slider-thumb{
 				top: 20px;
 				left: 10px;
 				font-size: 20px
+			}
+			.right #title{
+				left: 50%;
+				transform: translateX(-50%);
 			}
 	/* song image */
 	.left img{
@@ -346,6 +352,10 @@ input[type="range"]::-webkit-slider-thumb{
 			left: 10px;
 			font-size: 20px
 		}
+		.right #title{
+			left: 50%;
+			transform: translateX(-50%);
+		}
 /* song image */
 .left img{
 	height: 30.961932650073205vw;
@@ -381,12 +391,12 @@ input[type="range"] {
 .right #title{
 	top:  30.392386530014641vw;
 	left: 8%;
-	font-size: 17px;
+	font-size: 15px;
 }
 .right #artist{
 	top: 40.052708638360176vw;
 	left: 8%;
-	font-size: 13px;
+	font-size: 10px;
 }
 .right #auto{
 	font-size: 15px;
