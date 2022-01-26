@@ -27,47 +27,53 @@ let track = document.createElement('audio');
 //All songs list
 let All_song = [
    {
-     name: "World We Used To Know",
-     path: "http://cdn.beatzjam.com/wp-content/uploads/2021/Alan-Walker-Winona-Oak-World-We-Used-to-Know-(BeatzJam.com).mp3?_=2",
-     img: "https://i.ytimg.com/vi/4SYOIqyhA8I/maxresdefault.jpg",
-     singer: "Artist : Alan Walker x Winona Oak"
+     name: "OK (Visualizer)",
+     path: "https://faisalhossain1.github.io/audio-music/Alan Walker x JOP - OK (Visualizer).mp3",
+     img: "img/ok.jpg",
+     singer: "Artist : JOP x Alan Walker"
    },
+   {
+    name: "Interlude",
+    path: "https://faisalhossain1.github.io/audio-music/Alan Walker - Interlude.mp3",
+    img: "img/interlude.jpg",
+    singer: "Artist : Alan Walker"
+  },
   {
-     name: "Let Me Down Slowly",
-     path: "https://gospelful.com/wp-content/uploads/2021/07/Alec-Benjamin-Let-Me-Down-Slowly-gospelfulcom.mp3",
-     img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbFIxfnrfKtzBiqjt6RhFXdI1gTVXzAR0QRQ&usqp=CAU",
-     singer: "Artist : Alec Benjamin"
-   },
-    {
-     name: "Good Life",
-     path: "https://cdn.beatzjam.com/wp-content/uploads/2021/G-Eazy-Kehlani-Good-Life-(BeatzJam.com).mp3?_=2",
-     img: "https://i.ytimg.com/vi/USP42EeDu7w/maxresdefault.jpg",
-     singer: "Artist : G-Eazy & Kehlani"
-   },
-   {
-     name: "Paradise",
-     path: "http://cdn.beatzjam.com/wp-content/uploads/2021/Alan-Walker-K-391-Boy-In-Space-Paradise-(BeatzJam.com).mp3?_=2",
-     img: "https://wowplus.net/wp-content/uploads/2021/10/e34a26a779087e3ded8a034c4e78050928f00707-741x486.jpg",
-     singer: "Artist : Alan Walker"
-   },
-   {
-     name: "See You Again",
-     path: "https://cdn.beatzjam.com/wp-content/uploads/2021/Wiz-Khalifa-ft-Charlie-Puth-See-You-Again-(BeatzJam.com).mp3?_=2",
-     img: "https://edmboost.org/wp-content/uploads/2020/01/1-440-716x708.jpg",
-     singer: "Artist : Wiz Khalifa"
-   },
-   {
-     name: "Let Me Love You",
-     path: "http://cdn.beatzjam.com/wp-content/uploads/2021/DJ-Snake-ft-Justin-Bieber-Let-Me-Love-You-(BeatzJam.com).mp3?_=2",
-     img: "https://upload.wikimedia.org/wikipedia/en/thumb/a/a5/DJSnakeLetMeLoveYou.jpg/220px-DJSnakeLetMeLoveYou.jpg",
-     singer: "Artist : DJ Snake x Justin Bieber"
-   },
-   {
-     name: "Shape of You",
-     path: "http://cdn.beatzjam.com/wp-content/uploads/2021/Ed-Sheeran-Shape-Of-You-(BeatzJam.com).mp3?_=2",
-     img: "https://s3.amazonaws.com/secretsaucefiles/photos/images/000/120/955/large/Screen_Shot_2017-01-30_at_7.36.54_PM.png?1485823203",
-     singer: "Artist : Ed Sheeran"
-   },
+    name: "Out Of Love",
+    path: "https://faisalhossain1.github.io/audio-music/Alan Walker & Au_Ra - Out Of Love.mp3",
+    img: "img/out-of-love.jpg",
+    singer: "Artist : Au / Ra"
+  },
+  {
+    name: "For You",
+    path: "https://faisalhossain1.github.io/audio-music/Alan Walker & Dua Lipa - For You.mp3",
+    img: "img/for-you.jpg",
+    singer: "Artist : Alan Walker X Dua Lipa"
+  },
+  {
+    name: "Faded (Restrung)",
+    path: "https://faisalhossain1.github.io/audio-music/Alan Walker - Faded (Restrung).mp3",
+    img: "img/faded.jpg",
+    singer: "Artist : Iselin Solheim X Alan Walker"
+  },
+  {
+    name: "Hello World",
+    path: "https://faisalhossain1.github.io/audio-music/Alan Walker - Hello World feat. Torine.mp3",
+    img: "img/hello-world.jpg",
+    singer: "Artist : Torine X Alan Walker"
+  },
+  {
+    name: "Fake A Smile",
+    path: "https://faisalhossain1.github.io/audio-music/Alan Walker x salem ilese - Fake A Smile.mp3",
+    img: "img/fake-a-smile.jpg",
+    singer: "Artist : Salem Ilese X Alan Walker"
+  },
+  {
+    name: "Love The Way You Lie",
+    path: "https://faisalhossain1.github.io/audio-music/Rihanna ft. Albert Vishi - Love The Way You Lie.mp3",
+    img: "img/love-the-way.jpg",
+    singer: "Artist :  Albert Vishi X Alan Walker"
+  },
 ];
 
 
