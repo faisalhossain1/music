@@ -26,13 +26,25 @@ let track = document.createElement('audio');
 
 //All songs list
 let All_song = [
-   {
-     name: "OK (Visualizer)",
-     path: "https://faisalhossain1.github.io/audio-music/Alan Walker x JOP - OK (Visualizer).mp3",
-     img: "img/ok.jpg",
-     singer: "Artist : JOP x Alan Walker"
-   },
-   {
+  {
+    name: "I'm A Mess",
+    path: "https://faisalhossain1.github.io/audio-music/Bebe Rexha - I'm A Mess.mp3",
+    img: "img/i'm_a_mess.jpg",
+    singer: "Artist : Bebe Rexha"
+  },
+  {
+    name: "OK (Visualizer)",
+    path: "https://faisalhossain1.github.io/audio-music/Alan Walker x JOP - OK (Visualizer).mp3",
+    img: "img/ok.jpg",
+    singer: "Artist : JOP x Alan Walker"
+  },
+  {
+    name: "Sabotage",
+    path: "https://faisalhossain1.github.io/audio-music/Alvert Vishi X Bebe Rexha - Sabotage.mp3",
+    img: "img/sabotage.jpg",
+    singer: "Artist : Bebe Rexha X Albert Vishi"
+  },
+  {
     name: "Interlude",
     path: "https://faisalhossain1.github.io/audio-music/Alan Walker - Interlude.mp3",
     img: "img/interlude.jpg",
